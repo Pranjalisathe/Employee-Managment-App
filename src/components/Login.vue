@@ -58,11 +58,7 @@ export default {
 };
 </script>
 <style>
-.login{
-  margin:200px 600px;
-  border:1px solid black;
-  padding:100px;
-}
+
 .login input {
   width: 300px;
   height: 40px;
